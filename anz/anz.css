@@ -68,6 +68,7 @@ footer a:active {
 .hero {
 /*     background-color: #2b2b2b; */
     margin-bottom: 30px;
+    min-height: 372px;
 }
 
 .hero h1 {
