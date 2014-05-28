@@ -107,6 +107,10 @@ div.gallery {
 	margin-bottom: 7em;
 }
 
+#ics {
+    display: none;
+}
+
 /* 300px layout */
 @media (max-width: 470px) {
     section {
