@@ -30,7 +30,7 @@ section div h1,
 section div p {
     width: 402px;
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
 }
 
 section div h1 {
@@ -55,7 +55,7 @@ footer {
     text-align: center;
     background-color: #3A414F;
     color: #aaa;
-    padding: 20px 0; 
+    padding: 20px 0;
 }
 
 footer a:link,
@@ -67,7 +67,7 @@ footer a:active {
 
 .hero {
 /*     background-color: #2b2b2b; */
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     min-height: 372px;
 }
 
@@ -92,8 +92,8 @@ p.mapCaption {
 	position: relative;
     top:-10px;
     margin-left: auto;
-    margin-right: auto; 
-	font-size: 0.8rem;    
+    margin-right: auto;
+	font-size: 0.8rem;
 }
 
 div.button {
