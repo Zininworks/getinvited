@@ -192,7 +192,7 @@ div.gallery {
 
     .message > div {
       width: 80%;
-      margin: 0 auto;
+      margin: 0px auto 65px auto;
     }
 
     .message > div > p {
